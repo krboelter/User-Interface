@@ -64,3 +64,17 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+
+.logo{
+	display: block;
+	float: right;
+	padding: 26px;
+	padding-right: 100px;
+}
+
+nav.topnav a{
+	display: inline-block;
+	color: gray;
+	text-decoration: none;
+	padding: 35px 50px;
+}
